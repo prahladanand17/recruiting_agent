@@ -1,0 +1,6 @@
+.env
+chroma_db/
+emails.json
+*.pyc
+__pycache__/
+.sync_state.json

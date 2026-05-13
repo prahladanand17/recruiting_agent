@@ -1,1 +1,5 @@
+anthropic>=0.40
+chromadb>=0.5
+streamlit>=1.28
 tqdm>=4.66
+voyageai>=0.2
